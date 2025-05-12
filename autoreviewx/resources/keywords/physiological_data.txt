@@ -1,0 +1,135 @@
+physiological data
+biosignal
+bio-signal
+biometric data
+wearable data
+sensor data
+sensor reading
+electrodermal activity
+eda
+heart rate
+heart rate variability
+pupil dilation
+eye movement
+skin conductance
+electromyography
+emg
+electrocardiogram
+ecg
+eeg
+brain activity
+breathing rate
+respiration rate
+galvanic skin response
+motor activity
+body temperature
+muscle activity
+sleep tracking
+fatigue measurement
+attention level
+stress level
+brainwave
+neurofeedback
+arousal detection
+
+physiological data
+biosignal
+bio-signal
+brainwave
+eeg
+eeg signal
+eeg data
+electroencephalography
+electroencephalogram
+neural activity
+brain activity
+brain signal
+cognitive load
+alpha waves
+beta waves
+theta waves
+gamma waves
+erp
+event-related potential
+neurofeedback
+neuroimaging
+mental workload
+
+heart rate
+heart rate variability
+hrv
+ecg
+electrocardiogram
+cardiac signal
+pulse oximetry
+respiration
+breathing rate
+respiratory rate
+chest expansion
+oxygen saturation
+spo2
+bpm
+ppg
+photoplethysmogram
+
+body temperature
+skin temperature
+skin conductance
+electrodermal activity
+eda
+galvanic skin response
+gsr
+thermal signal
+sweat response
+arousal detection
+stress level
+fatigue detection
+emg
+electromyography
+muscle activity
+motion signal
+movement tracking
+motor activity
+acceleration signal
+
+eye movement
+gaze movement
+saccade
+fixation
+blink rate
+pupil dilation
+pupil size
+oculomotor signal
+eye blink
+eye activity
+
+wearable data
+wearable sensor
+biosensor
+sensor data
+biometric data
+physiological monitoring
+smartwatch data
+smartband data
+activity tracker
+actigraphy
+sleep tracking
+posture data
+skin sensor
+movement sensor
+accelerometer
+gyroscope
+imu
+inertial measurement unit
+
+attention level
+focus level
+stress level
+mental effort
+fatigue level
+emotional arousal
+emotional state
+physiological feedback
+psychophysiology
+body response
+affective computing

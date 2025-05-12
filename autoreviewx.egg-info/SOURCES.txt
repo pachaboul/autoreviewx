@@ -1,0 +1,11 @@
+README.md
+setup.py
+autoreviewx/__init__.py
+autoreviewx.egg-info/PKG-INFO
+autoreviewx.egg-info/SOURCES.txt
+autoreviewx.egg-info/dependency_links.txt
+autoreviewx.egg-info/entry_points.txt
+autoreviewx.egg-info/requires.txt
+autoreviewx.egg-info/top_level.txt
+tests/test_config.py
+tests/test_extractor.py

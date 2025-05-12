@@ -1,0 +1,139 @@
+dna
+rna
+genome
+genomic data
+genetic data
+gene expression
+microarray
+metabolomics
+proteomics
+transcriptomics
+epigenetics
+bioinformatics
+biomarker
+biological sample
+biological tissue
+blood sample
+saliva sample
+urine sample
+biopsy
+cell culture
+in vitro
+in vivo
+pathogen
+microbiome
+bacteria
+virus
+plasma
+cytogenetics
+nucleotide
+protein sequence
+sequence alignment
+biological sequence
+molecular data
+mutation data
+
+
+dna
+rna
+mrna
+trna
+rrna
+genome
+genomic data
+genetic data
+gene expression
+genetic sequence
+genotype
+phenotype
+mutation
+mutation data
+variant calling
+sequence variation
+snps
+snv
+indel
+copy number variation
+epigenetics
+epigenomic data
+methylation data
+chromatin structure
+nucleotide
+genomic region
+genome annotation
+
+sequence alignment
+multiple sequence alignment
+biological sequence
+protein sequence
+molecular data
+next generation sequencing
+high-throughput sequencing
+sequencing reads
+illumina
+nanopore
+pacbio
+transcriptomics
+metagenomics
+bioinformatics
+pipeline analysis
+de novo assembly
+blast analysis
+
+proteomics
+metabolomics
+lipidomics
+microarray
+mass spectrometry
+protein interaction
+protein structure
+enzymatic activity
+cell culture
+cell line
+cell viability
+cell differentiation
+apoptosis
+flow cytometry
+western blot
+immunohistochemistry
+
+biological sample
+biological tissue
+blood sample
+serum sample
+plasma
+saliva sample
+urine sample
+biopsy
+biopsy tissue
+pathogen
+microbiome
+gut microbiome
+oral microbiome
+bacteria
+virus
+viral load
+fungi
+parasite
+in vitro
+in vivo
+ex vivo
+animal model
+zebrafish
+mouse model
+rat model
+drosophila
+yeast model
+
+biomarker
+cancer biomarker
+disease marker
+diagnostic marker
+prognostic biomarker
+personalized medicine
+targeted therapy
+molecular profiling
+omics data
+integrative omics
+systems biology
+

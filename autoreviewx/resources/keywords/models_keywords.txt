@@ -1,0 +1,115 @@
+transformer
+transformers
+transformer model
+transformer-based model
+self-attention model
+
+bert
+roberta
+distilbert
+albert
+xlm-roberta
+camembert
+flan-t5
+t5
+mbert
+flaubert
+codebert
+
+gpt
+gpt-2
+gpt-3
+gpt-3.5
+gpt-4
+chatgpt
+instructgpt
+openai gpt
+llama
+llama-2
+gemini
+mistral
+claude
+vicuna
+falcon
+
+language model
+large language model
+llm
+pretrained language model
+contextual language model
+causal language model
+
+cnn
+convolutional neural network
+convolutional net
+
+rnn
+recurrent neural network
+gru
+lstm
+bilstm
+seq2seq
+encoder-decoder
+
+vae
+variational autoencoder
+autoencoder
+denoising autoencoder
+sparse autoencoder
+
+gan
+generative adversarial network
+stylegan
+cyclegan
+biggan
+diffusion model
+stable diffusion
+
+resnet
+efficientnet
+densenet
+alexnet
+vgg16
+mobilenet
+swin transformer
+
+graph neural network
+gnn
+graph attention network
+gat
+gcn
+graphsage
+
+neural network
+deep learning
+deep learning model
+neural net
+machine learning model
+ml model
+ensemble model
+bayesian model
+markov model
+hmm
+decision tree
+random forest
+xgboost
+svm
+support vector machine
+k-nn
+knn
+naive bayes
+
+reinforcement learning
+q-learning
+deep q-network
+dqn
+policy gradient
+ppo
+a2c
+actor-critic
+
+zero-shot model
+few-shot model
+prompt-tuned model
+fine-tuned model
+adapter-based model

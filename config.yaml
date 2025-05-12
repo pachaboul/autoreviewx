@@ -1,0 +1,38 @@
+title: Generative AI and Multimodal Profiling in Programming Education
+framework: PICO
+inclusion_criteria:
+  - Empirical or mixed-methods studies
+  - Published between 2015 and 2025
+  - Focus on programming or computer science education
+  - Integration of Generative AI tools (e.g., ChatGPT, Copilot)
+  - Use of multimodal data (e.g., eye-tracking, EEG, IMUs, facial emotion)
+  - Written in English
+exclusion_criteria:
+  - Conceptual or theoretical papers with no empirical evidence
+  - Studies unrelated to teaching/learning contexts
+  - Technical-only GenAI papers with no pedagogical analysis
+  - Non-accessible full texts
+output_format: markdown
+citation_style: APA
+databases:
+  - ACM Digital Library
+  - IEEE Xplore
+  - Scopus
+  - arXiv
+tools_of_interest:
+  - ChatGPT
+  - GitHub Copilot
+  - CodeHelp
+  - CS50 Chatbot
+  - Confidence-Aware Learning Assistant (CoALA)
+modalities:
+  - Text
+  - Eye-tracking
+  - EEG
+  - Emotion recognition
+  - IMUs
+learning_outcomes:
+  - Student engagement
+  - Cognitive/metacognitive skill development
+  - Programming competency
+  - Prompt engineering literacy

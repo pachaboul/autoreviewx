@@ -1,0 +1,11 @@
+PyYAML
+pandas
+requests
+graphviz
+crossrefapi
+openalex
+streamlit
+fastapi
+uvicorn
+matplotlib
+seaborn

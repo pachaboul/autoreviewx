@@ -1,0 +1,10 @@
+PyYAML
+pandas
+requests
+graphviz
+crossrefapi
+openalex
+streamlit
+fastapi
+uvicorn
+pytest

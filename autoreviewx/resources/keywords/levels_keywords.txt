@@ -1,0 +1,76 @@
+early childhood
+preschool
+kindergarten
+nursery
+
+primary school
+elementary school
+basic education
+compulsory education
+lower primary
+grade 1
+grade 2
+grade 3
+grade 4
+grade 5
+
+lower secondary
+middle school
+junior high school
+grade 6
+grade 7
+grade 8
+grade 9
+
+upper secondary
+high school
+senior high school
+grade 10
+grade 11
+grade 12
+
+secondary school
+secondary education
+
+k-12
+k12
+school-aged learners
+
+college
+undergraduate
+undergraduate students
+undergrad
+
+postsecondary
+higher education
+university
+bachelor level
+bachelor's degree
+master level
+master's degree
+graduate
+graduate students
+postgraduate
+phd
+doctoral
+doctoral students
+doctoral level
+doctoral program
+research training
+
+vocational training
+technical education
+tvet
+continuing education
+lifelong learning
+adult learning
+distance education
+online learning
+remote learning
+open university
+
+informal learning
+non-formal education
+alternative education
+special education
+inclusive education

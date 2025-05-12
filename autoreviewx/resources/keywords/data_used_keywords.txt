@@ -1,0 +1,79 @@
+dataset
+data set
+data collection
+data sample
+data corpus
+raw data
+annotated dataset
+open dataset
+benchmark dataset
+multimodal dataset
+experimental dataset
+training data
+test data
+validation data
+
+log file
+logfile
+log files
+system logs
+interaction logs
+usage logs
+click logs
+event logs
+
+eye tracking
+eye-tracking
+gaze data
+gaze position
+gaze movement
+eye movement
+eye fixation
+saccade
+pupil dilation
+
+EEG
+eeg signal
+eeg data
+brainwave data
+electroencephalogram
+electroencephalography
+
+physiological data
+biosignal
+bio-signal
+biometric data
+wearable data
+sensor data
+sensor reading
+motion sensor
+heart rate
+heart rate variability
+skin conductance
+electrodermal activity
+EDA
+EMG
+ECG
+accelerometer data
+gyroscope data
+
+keystroke
+keystroke dynamics
+typing behavior
+keyboard interaction
+
+mouse tracking
+mouse movement
+cursor tracking
+
+facial expression
+facial emotion
+emotion detection
+emotion annotation
+
+video annotation
+audio annotation
+speech data
+voice recording
+transcript data
+screen recording

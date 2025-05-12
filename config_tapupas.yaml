@@ -1,0 +1,56 @@
+title: "Generative AI and Multimodal Profiling in Programming Education"
+framework: TAPUPAS
+
+inclusion_criteria:
+  - Empirical or mixed-methods studies
+  - Published between 2015 and 2025
+  - Focus on programming or computer science education
+  - Use of GenAI tools (ChatGPT, Copilot, etc.)
+  - Application of multimodal analytics (eye-tracking, EEG, emotion, IMUs)
+  - English language
+  - Methodological transparency and data availability
+
+exclusion_criteria:
+  - Conceptual or opinion-only papers
+  - Studies unrelated to learning/teaching contexts
+  - Technical GenAI benchmarks with no educational implications
+  - Studies lacking clear methodology or insufficient data
+
+output_format: markdown
+citation_style: APA
+
+databases:
+  - ACM Digital Library
+  - IEEE Xplore
+  - Scopus
+  - arXiv
+
+tools_of_interest:
+  - ChatGPT
+  - GitHub Copilot
+  - CodeHelp
+  - CS50 Chatbot
+  - Confidence-Aware Learning Assistant (CoALA)
+
+modalities:
+  - Eye-tracking
+  - EEG
+  - Facial emotion
+  - IMUs
+  - Text interaction logs
+
+learning_outcomes:
+  - Prompt engineering literacy
+  - Programming competency
+  - Metacognitive reflection
+  - Engagement and attention
+  - Emotional regulation
+
+evaluation_dimensions:
+  - Transparency         # clarity of methods, open data
+  - Accuracy             # fidelity in measurements, truthful reporting
+  - Purposivity          # alignment with research/educational goals
+  - Utility              # relevance and practical value
+  - Propriety            # ethical soundness
+  - Accessibility        # inclusion, ease of use, clarity
+  - Specificity          # clear definition of target population and outcomes

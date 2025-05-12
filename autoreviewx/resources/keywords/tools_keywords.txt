@@ -1,0 +1,294 @@
+tensorflow
+keras
+pytorch
+torch
+jax
+flax
+paddlepaddle
+onnx
+fastai
+deeplearning4j
+
+huggingface
+transformers library
+datasets library
+diffusers
+
+scikit-learn
+sklearn
+xgboost
+lightgbm
+catboost
+
+nltk
+spacy
+stanza
+gensim
+openai api
+langchain
+llamaindex
+
+opencv
+mediapipe
+dlib
+albumentations
+mmcv
+cv2
+face-api
+gaze recorder
+openface
+pebl
+labvanced
+
+matlab
+simulink
+octave
+r
+rstudio
+
+excel
+microsoft excel
+libreoffice calc
+google sheets
+
+jupyter
+jupyter notebook
+colab
+google colab
+kaggle notebooks
+anaconda
+spyder
+
+moodle
+moodle plugin
+canvas
+blackboard
+edmodo
+microsoft teams
+zoom
+slack
+
+turnitin
+grammarly
+copyleaks
+
+tableau
+power bi
+metabase
+superset
+
+mysql
+postgresql
+sqlite
+mongodb
+elasticsearch
+neo4j
+
+arduino
+raspberry pi
+micro:bit
+nvidia jetson
+jetson nano
+
+unity
+unreal engine
+blender
+processing
+vpython
+godot
+
+github
+gitlab
+bitbucket
+docker
+kubernetes
+aws
+gcp
+azure
+lambda function
+
+notion
+obsidian
+zotero
+mendeley
+endnote
+
+notion
+obsidian
+zotero
+mendeley
+endnote
+refworks
+jabref
+
+github
+gitlab
+bitbucket
+docker
+kubernetes
+aws
+gcp
+azure
+lambda function
+terraform
+cloud run
+cloud functions
+heroku
+netlify
+vercel
+
+unity
+unreal engine
+blender
+processing
+vpython
+godot
+opensim
+gazebo
+
+arduino
+raspberry pi
+micro:bit
+nvidia jetson
+jetson nano
+esp32
+openbci
+intel realsense
+
+mysql
+postgresql
+sqlite
+mongodb
+elasticsearch
+neo4j
+redis
+cassandra
+firebase
+duckdb
+
+tableau
+power bi
+metabase
+superset
+looker
+redash
+grafana
+
+turnitin
+grammarly
+copyleaks
+quillbot
+writefull
+
+moodle
+moodle plugin
+canvas
+blackboard
+edmodo
+google classroom
+microsoft teams
+classdojo
+kahoot
+zoom
+slack
+webex
+bigbluebutton
+
+jupyter
+jupyter notebook
+jupyterlab
+colab
+google colab
+kaggle notebooks
+anaconda
+spyder
+vscode
+pycharm
+rmarkdown
+
+excel
+microsoft excel
+libreoffice calc
+google sheets
+numbers
+
+matlab
+simulink
+octave
+r
+rstudio
+python
+scipy
+numpy
+sympy
+pandas
+gephi
+networkx
+
+opencv
+cv2
+mediapipe
+dlib
+albumentations
+mmcv
+detectron2
+yolov5
+yolov8
+ultralytics
+face-api
+gaze recorder
+openface
+pebl
+labvanced
+deepface
+openpose
+pose estimation
+
+nltk
+spacy
+stanza
+gensim
+polyglot
+flair
+textblob
+sumy
+luhn summarizer
+
+scikit-learn
+sklearn
+xgboost
+lightgbm
+catboost
+mlflow
+dvc
+optuna
+weka
+orange
+
+huggingface
+transformers library
+datasets library
+diffusers
+sentence-transformers
+langchain
+llamaindex
+haystack
+openai api
+cohere
+anthropic
+
+tensorflow
+keras
+pytorch
+torch
+jax
+flax
+paddlepaddle
+onnx
+fastai
+deeplearning4j
+mindspore
+mxnet
+caffe
+chainer
+tensorrt
