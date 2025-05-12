@@ -1,3 +1,4 @@
+
 # 🤖 AutoReviewX
 
 **An Intelligent, Modular, and Multi-Framework Platform for Automating Systematic Literature Reviews (SLRs)**
@@ -8,10 +9,10 @@
 
 **AutoReviewX** is an open-source platform that automates the complete workflow of conducting a Systematic Literature Review (SLR), from protocol definition to final report generation. It supports multiple methodological frameworks (e.g., PRISMA, PICO, TAPUPAS) and is tailored for engineering and applied research domains, including:
 
-- 🧠 Artificial Intelligence in Education
-- 🖥️ Human-Computer Interaction (HCI)
-- 💻 Software Engineering
-- 📊 Multimodal Learning Analytics
+- 🧠 Artificial Intelligence in Education  
+- 🖥️ Human-Computer Interaction (HCI)  
+- 💻 Software Engineering  
+- 📊 Multimodal Learning Analytics  
 
 The platform is modular and scalable — usable via CLI (v1.0), GUI (v1.5), or Web API (v2.0+).
 
@@ -19,22 +20,22 @@ The platform is modular and scalable — usable via CLI (v1.0), GUI (v1.5), or W
 
 ## 🧠 Core Features
 
-| Feature                      | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| ✅ Protocol-based reviews    | Define structure using a YAML config (questions, inclusion/exclusion, etc.) |
-| 📄 Metadata extraction       | Automatic from PDF/DOI using GROBID, CrossRef, or NLP enrichment            |
-| 📚 Citation formatting       | APA 7 (v1.0), IEEE/ACM/MLA (v2.0)                                           |
-| 🧪 Quality assessment        | TAPUPAS, CASP, Kitchenham, PRISMA scoring                                   |
-| 📊 Graph generation          | PRISMA Flow, PICO bar chart, CASP radar, TAPUPAS score chart                |
-| 📤 Report export             | Output in Markdown, CSV, BibTeX, JSON, PDF                                  |
-| 🔌 Extensibility             | Add your own screening rubrics, graphs, formats                             |
-| 🧪 Testing support           | Unit tests included for key modules                                         |
+| Feature                   | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| ✅ Protocol-based reviews | Define structure using a YAML config (questions, inclusion/exclusion, etc.) |
+| 📄 Metadata extraction    | Automatic from PDF/DOI using GROBID, CrossRef, or NLP enrichment             |
+| 📚 Citation formatting    | APA 7 (v1.0), IEEE/ACM/MLA (v2.0)                                           |
+| 🧪 Quality assessment     | TAPUPAS, CASP, Kitchenham, PRISMA scoring                                   |
+| 📊 Graph generation       | PRISMA Flow, PICO bar chart, CASP radar, TAPUPAS score chart                |
+| 📤 Report export          | Output in Markdown, CSV, BibTeX, JSON, PDF                                  |
+| 🔌 Extensibility          | Add your own screening rubrics, graphs, formats                             |
+| 🧪 Testing support        | Unit tests included for key modules                                         |
 
 ---
 
 ## 🏗️ Project Structure
 
-```text
+```
 AutoReviewX/
 ├── cli/              # CLI commands (e.g., run, extract, cite, report)
 ├── core/             # Core processing modules (extractor, prisma, etc.)
@@ -52,9 +53,15 @@ AutoReviewX/
 ├── requirements.txt  # Python dependencies
 ├── setup.py          # Packaging info for pip installation
 └── README.md         # Project documentation
+```
 
+---
 
-🧾 Step 1 – Metadata Extraction
+## 🚀 Quickstart (CLI v1.0)
+
+### 🧾 Step 1 – Metadata Extraction
+
+```bash
 # Basic batch extraction using GROBID
 autoreviewx extract-grobid-batch --dir data/raw_pdfs/
 
@@ -63,65 +70,98 @@ autoreviewx extract-intelligent --pdf path/to/document.pdf
 
 # Config-based extraction using filters and review protocol
 autoreviewx extract-with-config --config config.yaml --dir data/raw_pdfs/
+```
 
-📝 Step 2 – Generate APA References
+---
+
+### 📝 Step 2 – Generate APA References
+
+```bash
 autoreviewx generate-apa --input data/extracted/metadata_file.csv
+```
 
-📈 Step 3 – Generate Graphs and Visual Insights
+---
+
+### 📈 Step 3 – Generate Graphs and Visual Insights
+
+```bash
 autoreviewx graphs --input data/extracted/metadata_enriched.csv
+```
 
 Supported charts include:
+- ✅ PRISMA checklist heatmaps  
+- ✅ PICO bar charts  
+- ✅ CASP radar graphs  
+- ✅ TAPUPAS trustworthiness bars  
+- ✅ Kitchenham-style radar charts
 
-    PRISMA checklist heatmaps
-    PICO bar charts
-    CASP radar graphs
-    TAPUPAS trustworthiness bars
-    Kitchenham-style radar charts
+---
 
+### 📦 Step 4 – Generate Final Report
 
-📦 Step 4 – Generate Full Report
+```bash
 autoreviewx report --format markdown
+```
 
-🧪 Testing
+---
+
+## 🧪 Testing
+
+```bash
 pytest tests/
+```
 
-🛠️ Installation
+---
+
+## 🛠️ Installation
+
+```bash
 git clone https://github.com/pachaboul/autoreviewx.git
 cd autoreviewx
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 We welcome contributions! To contribute:
 
-    Fork the repo
+```bash
+# 1. Fork the repository
+# 2. Create your feature branch
+git checkout -b my-feature
 
-    Create a branch: git checkout -b my-feature
+# 3. Commit your changes
+git commit -am "Add some feature"
 
-    Commit your changes
+# 4. Push to the branch
+git push origin my-feature
 
-    Push to the branch: git push origin my-feature
+# 5. Create a new Pull Request
+```
 
-    Create a pull request
+---
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
-🙏 Acknowledgements
+This project is licensed under the MIT License – see the `LICENSE` file for details.
 
-    Kitchenham & Charters (2007) for SLR methodology
+---
 
-    PRISMA 2020 Reporting Guideline
+## 🙏 Acknowledgements
 
-    GROBID for PDF metadata extraction
+- Kitchenham & Charters (2007) for SLR methodology  
+- PRISMA 2020 Reporting Guideline  
+- GROBID for PDF metadata extraction  
+- CrossRef & OpenAlex for citation enrichment  
+- spaCy NLP for semantic analysis  
 
-    CrossRef & OpenAlex for citation enrichment
+---
 
-    spaCy NLP for semantic analysis
+## 📬 Contact
 
-📬 Contact
-
-Created by @pachaboul
-Feel free to open an issue or send a message for support or collaboration.
+Created by **[@pachaboul](https://github.com/pachaboul)**  
+Feel free to open an issue or reach out for support or collaboration.
